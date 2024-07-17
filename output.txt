@@ -1,0 +1,208 @@
+RR Scheduling statistics for Time Quantum 50 milliseconds and Context Switch Time 0 milliseconds
+Total Simulation Time: 795.451 seconds
+Total Processes: 22
+Average Turnaround Time: 80.7338 seconds
+Average Process Wait Time: 0.0696314 seconds
+Average Queue Length: 2.48967
+Maximum Queue Length: 5
+=====================================
+RR Scheduling statistics for Time Quantum 50 milliseconds and Context Switch Time 5 milliseconds
+Total Simulation Time: 857.994 seconds
+Total Processes: 22
+Average Turnaround Time: 127.923 seconds
+Average Process Wait Time: 0.139664 seconds
+Average Queue Length: 3.59716
+Maximum Queue Length: 7
+=====================================
+RR Scheduling statistics for Time Quantum 50 milliseconds and Context Switch Time 10 milliseconds
+Total Simulation Time: 921.145 seconds
+Total Processes: 22
+Average Turnaround Time: 173.229 seconds
+Average Process Wait Time: 0.181487 seconds
+Average Queue Length: 4.47049
+Maximum Queue Length: 8
+=====================================
+RR Scheduling statistics for Time Quantum 50 milliseconds and Context Switch Time 15 milliseconds
+Total Simulation Time: 984.307 seconds
+Total Processes: 22
+Average Turnaround Time: 216.008 seconds
+Average Process Wait Time: 0.251506 seconds
+Average Queue Length: 5.14971
+Maximum Queue Length: 9
+=====================================
+RR Scheduling statistics for Time Quantum 50 milliseconds and Context Switch Time 20 milliseconds
+Total Simulation Time: 1048.18 seconds
+Total Processes: 22
+Average Turnaround Time: 259.992 seconds
+Average Process Wait Time: 0.309961 seconds
+Average Queue Length: 5.75758
+Maximum Queue Length: 10
+=====================================
+RR Scheduling statistics for Time Quantum 50 milliseconds and Context Switch Time 25 milliseconds
+Total Simulation Time: 1111.93 seconds
+Total Processes: 22
+Average Turnaround Time: 304.157 seconds
+Average Process Wait Time: 0.363675 seconds
+Average Queue Length: 6.28807
+Maximum Queue Length: 11
+=====================================
+RR Scheduling statistics for Time Quantum 100 milliseconds and Context Switch Time 0 milliseconds
+Total Simulation Time: 795.525 seconds
+Total Processes: 22
+Average Turnaround Time: 80.7579 seconds
+Average Process Wait Time: 0.155372 seconds
+Average Queue Length: 2.48908
+Maximum Queue Length: 5
+=====================================
+RR Scheduling statistics for Time Quantum 100 milliseconds and Context Switch Time 5 milliseconds
+Total Simulation Time: 826.6 seconds
+Total Processes: 22
+Average Turnaround Time: 104.023 seconds
+Average Process Wait Time: 0.21517 seconds
+Average Queue Length: 3.06033
+Maximum Queue Length: 6
+=====================================
+RR Scheduling statistics for Time Quantum 100 milliseconds and Context Switch Time 10 milliseconds
+Total Simulation Time: 858.073 seconds
+Total Processes: 22
+Average Turnaround Time: 127.936 seconds
+Average Process Wait Time: 0.271253 seconds
+Average Queue Length: 3.59658
+Maximum Queue Length: 7
+=====================================
+RR Scheduling statistics for Time Quantum 100 milliseconds and Context Switch Time 15 milliseconds
+Total Simulation Time: 889.67 seconds
+Total Processes: 22
+Average Turnaround Time: 151.292 seconds
+Average Process Wait Time: 0.312901 seconds
+Average Queue Length: 4.07111
+Maximum Queue Length: 7
+=====================================
+RR Scheduling statistics for Time Quantum 100 milliseconds and Context Switch Time 20 milliseconds
+Total Simulation Time: 921.193 seconds
+Total Processes: 22
+Average Turnaround Time: 173.179 seconds
+Average Process Wait Time: 0.362889 seconds
+Average Queue Length: 4.4685
+Maximum Queue Length: 8
+=====================================
+RR Scheduling statistics for Time Quantum 100 milliseconds and Context Switch Time 25 milliseconds
+Total Simulation Time: 952.722 seconds
+Total Processes: 22
+Average Turnaround Time: 194.56 seconds
+Average Process Wait Time: 0.440442 seconds
+Average Queue Length: 4.82167
+Maximum Queue Length: 8
+=====================================
+RR Scheduling statistics for Time Quantum 250 milliseconds and Context Switch Time 0 milliseconds
+Total Simulation Time: 795.57 seconds
+Total Processes: 22
+Average Turnaround Time: 80.7263 seconds
+Average Process Wait Time: 0.362711 seconds
+Average Queue Length: 2.48691
+Maximum Queue Length: 4
+=====================================
+RR Scheduling statistics for Time Quantum 250 milliseconds and Context Switch Time 5 milliseconds
+Total Simulation Time: 807.897 seconds
+Total Processes: 22
+Average Turnaround Time: 89.9681 seconds
+Average Process Wait Time: 0.428477 seconds
+Average Queue Length: 2.71972
+Maximum Queue Length: 5
+=====================================
+RR Scheduling statistics for Time Quantum 250 milliseconds and Context Switch Time 10 milliseconds
+Total Simulation Time: 820.409 seconds
+Total Processes: 22
+Average Turnaround Time: 99.3222 seconds
+Average Process Wait Time: 0.447495 seconds
+Average Queue Length: 2.94799
+Maximum Queue Length: 5
+=====================================
+RR Scheduling statistics for Time Quantum 250 milliseconds and Context Switch Time 15 milliseconds
+Total Simulation Time: 833.011 seconds
+Total Processes: 22
+Average Turnaround Time: 108.759 seconds
+Average Process Wait Time: 0.554826 seconds
+Average Queue Length: 3.16894
+Maximum Queue Length: 6
+=====================================
+RR Scheduling statistics for Time Quantum 250 milliseconds and Context Switch Time 20 milliseconds
+Total Simulation Time: 845.624 seconds
+Total Processes: 22
+Average Turnaround Time: 118.31 seconds
+Average Process Wait Time: 0.627354 seconds
+Average Queue Length: 3.38499
+Maximum Queue Length: 6
+=====================================
+RR Scheduling statistics for Time Quantum 250 milliseconds and Context Switch Time 25 milliseconds
+Total Simulation Time: 858.242 seconds
+Total Processes: 22
+Average Turnaround Time: 127.92 seconds
+Average Process Wait Time: 0.679635 seconds
+Average Queue Length: 3.59476
+Maximum Queue Length: 7
+=====================================
+RR Scheduling statistics for Time Quantum 500 milliseconds and Context Switch Time 0 milliseconds
+Total Simulation Time: 795.57 seconds
+Total Processes: 22
+Average Turnaround Time: 80.7263 seconds
+Average Process Wait Time: 0.714984 seconds
+Average Queue Length: 2.48714
+Maximum Queue Length: 4
+=====================================
+RR Scheduling statistics for Time Quantum 500 milliseconds and Context Switch Time 5 milliseconds
+Total Simulation Time: 801.736 seconds
+Total Processes: 22
+Average Turnaround Time: 85.2707 seconds
+Average Process Wait Time: 0.812221 seconds
+Average Queue Length: 2.6025
+Maximum Queue Length: 5
+=====================================
+RR Scheduling statistics for Time Quantum 500 milliseconds and Context Switch Time 10 milliseconds
+Total Simulation Time: 807.959 seconds
+Total Processes: 22
+Average Turnaround Time: 89.9814 seconds
+Average Process Wait Time: 0.853339 seconds
+Average Queue Length: 2.72064
+Maximum Queue Length: 5
+=====================================
+RR Scheduling statistics for Time Quantum 500 milliseconds and Context Switch Time 15 milliseconds
+Total Simulation Time: 814.23 seconds
+Total Processes: 22
+Average Turnaround Time: 94.6816 seconds
+Average Process Wait Time: 0.916889 seconds
+Average Queue Length: 2.83739
+Maximum Queue Length: 5
+=====================================
+RR Scheduling statistics for Time Quantum 500 milliseconds and Context Switch Time 20 milliseconds
+Total Simulation Time: 820.516 seconds
+Total Processes: 22
+Average Turnaround Time: 99.3569 seconds
+Average Process Wait Time: 0.967058 seconds
+Average Queue Length: 2.94788
+Maximum Queue Length: 5
+=====================================
+RR Scheduling statistics for Time Quantum 500 milliseconds and Context Switch Time 25 milliseconds
+Total Simulation Time: 826.855 seconds
+Total Processes: 22
+Average Turnaround Time: 103.976 seconds
+Average Process Wait Time: 1.11046 seconds
+Average Queue Length: 3.05698
+Maximum Queue Length: 6
+=====================================
+FCFS Scheduling statistics
+Total Simulation Time: 795.57 seconds
+Total Processes: 22
+Average Turnaround Time: 61.2136 seconds
+Average Process Wait Time: 28.7841 seconds
+Average Queue Length: 1.45455
+Maximum Queue Length: 2
+=====================================
+SJN Scheduling statistics
+Total Simulation Time: 795.57 seconds
+Total Processes: 22
+Average Turnaround Time: 57.5282 seconds
+Average Process Wait Time: 25.0986 seconds
+Average Queue Length: 1.31818
+Maximum Queue Length: 2
+=====================================
